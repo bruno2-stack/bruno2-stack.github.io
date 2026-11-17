@@ -46,7 +46,7 @@ bruno2-stack.github.io/
 ├── index.html          # Page principale
 ├── style.css           # Styles du site
 ├── script.js           # Interactions JavaScript
-├── README.md           # Ce fichier
+├── README.md           # Ce fichier descriptif
 ├── images/             # Photo de profil et images des projets
 │   ├── bruno.jpg
 │   ├── drone.jpg
@@ -84,7 +84,7 @@ Aucune installation ni compilation n'est nécessaire : c'est un site statique.
 
 ## 📬 Contact
 
-- ✉️ Email : fambo.bruno@gmail.com
+- ✉️ Email : fambobruno1@gmail.com
 - 📍 Cotonou, Bénin
 - 💼 GitHub : [bruno2-stack](https://github.com/bruno2-stack)
 
