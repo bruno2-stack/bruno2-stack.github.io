@@ -48,11 +48,14 @@ bruno2-stack.github.io/
 ├── script.js           # Interactions JavaScript
 ├── README.md           # Ce fichier descriptif
 ├── images/             # Photo de profil et images des projets
-│   ├── bruno.jpg
-│   ├── drone.jpg
-│   ├── poussiniere.jpg
-│   ├── electronique.jpg
-│   └── education.jpg
+│   ├── bruno.png
+│   ├── drone.pgn
+│   ├── poussiniere.png
+│   ├── electronique.png
+│   └── education.png
+    └── equation.png
+    └── suivi-drone.png
+    └── gestion-ecole.png
 └── assets/
     └── CV_FAMBO_Bruno.pdf
 ```
